@@ -1,0 +1,28 @@
+{
+  "name": "js-zrim-netfilter",
+  "version": "0.1.0",
+  "description": "Help to manage netfilter via different command line",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogo95/js-zrim-netfilter.git"
+  },
+  "keywords": [
+    "netfilter",
+    "iptables",
+    "node",
+    "zrim-everything"
+  ],
+  "author": "yogo95 (yogo95@zrim-everything.eu)",
+  "license": "CECILL-2.1",
+  "bugs": {
+    "url": "https://github.com/yogo95/js-zrim-netfilter/issues"
+  },
+  "homepage": "https://github.com/yogo95/js-zrim-netfilter#readme"
+}
